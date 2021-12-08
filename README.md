@@ -15,12 +15,7 @@ Note that you do not need to solve the problem.
 
 * Contains a clear and simple restatement of the problem that:
   * Identifies the data
-    * 10 pockets
-    * 44 silver dollars
   * Identifies the unknown
-    * Whether or not it's possible to have a unique number of coins in each pocket
   * Identifies the constraint
-    * Every coin has to be used
-    * No pocket can contain the same number of coins
 * Identifies a plausible difficulty with the problem
 * Details 2 plausible approaches to solving the problem
